@@ -1,0 +1,7 @@
+1. change folder path in magicvbs according to need it is hard coded as per current path of this computer
+2. change in the excel file data.xlsx for getting desrired output dont add any rows or delete any coloum in the first sheet change in the data only for the fist sheet for others row data can be changed but the columns should be as it is
+
+3. in case of disaster delete all three files stub data and magic and copy from the backup (DONT DELETE THE BACKUP IN ANY CASE)
+
+4. The output file will always be output1.xml u can change it later.
+
